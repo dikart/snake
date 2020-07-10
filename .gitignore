@@ -1,1 +1,5 @@
-/snake.iml
+/*.iml
+/.idea/
+/target/
+/logs/
+/system/
